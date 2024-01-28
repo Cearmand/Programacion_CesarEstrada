@@ -36,7 +36,7 @@ import math
 # print("x1: ",x1,"\nx2: ",x2)
 
 ##Indicar en que tipo de dato se deve ingresar esa variable
-entero=int(input("Ingrese un entero"))
-print(f"Usted ingreso un numero entero {entero}")
-flotante=float(input("ingrese un numero flotante"))
-print(f"Usted ingreso un numero flotante {flotante}")
+# entero=int(input("Ingrese un entero"))
+# print(f"Usted ingreso un numero entero {entero}")
+# flotante=float(input("ingrese un numero flotante"))
+# print(f"Usted ingreso un numero flotante {flotante}")
